@@ -30,7 +30,10 @@ Hi, I’m Willian Guedes! A passionate Mobile Developer specializing in iOS Devi
 
 COMING SOON
 
-          
-          
-           
+&nbsp;
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> &nbsp; Analytics
+
+![LiamGuedes's Stats](https://github-readme-stats.vercel.app/api?username=LiamGuedes&theme=dark&show_icons=true&hide_border=false&count_private=true) &nbsp;
+![LiamGuedes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LiamGuedes&theme=dark&hide_border=false) &nbsp;
 
