@@ -56,6 +56,6 @@ Hi, I’m Willian Guedes! A passionate Mobile iOS Developer, UX/UI Designer and 
 
 [website]: https://liamguedes.com
 [twitter]: https://twitter.com/LiamGuedes
-[instagram]: https://instagram.com/liamguedes
+[instagram]: https://instagram.com/liam.guedes
 [linkedin]: https://linkedin.com/in/liamguedes
 
