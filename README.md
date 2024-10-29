@@ -24,7 +24,6 @@ Hi, I’m Willian Guedes! A passionate Mobile iOS Developer, UX/UI Designer and 
 &nbsp;
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49e/512.gif" alt="💞" width="20" height="20"> &nbsp;Tools that make me fall in love 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="MacOS" width="50" height="50" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="50" height="50"/> &nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/> &nbsp; 
