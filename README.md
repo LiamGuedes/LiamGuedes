@@ -49,10 +49,10 @@ Hi, I’m Willian Guedes! A passionate Mobile iOS Developer, UX/UI Designer and 
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6ce_fe0f/512.gif" alt="🛎" width="20" height="20"> &nbsp; Contact Me
 
-[<img src="https://img.icons8.com/?size=100&id=ZovicwSP5Trl&format=png&color=000000" alt="liamguedes.com" width="40" height="40"/>][website]
-[<img src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=000000" alt="LiamGuedes | Twitter" width="40" height="40"/>][twitter]
-[<img src="https://img.icons8.com/?size=100&id=DYoTRhf8VVC1&format=png&color=000000" alt="LiamGuedes | LinkedIn" width="40" height="40"/>][linkedin]
-[<img src="https://img.icons8.com/?size=100&id=7QPcOVZoGlmf&format=png&color=000000" alt="LiamGuedes | Instagram" width="40" height="40"/>][instagram]
+[<img src="https://img.icons8.com/?size=100&id=ejub91zEY6Sl&format=png&color=000000" alt="liamguedes.com" width="40" height="40"/>][website]
+[<img src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" alt="LiamGuedes | Twitter" width="40" height="40"/>][twitter]
+[<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LiamGuedes | LinkedIn" width="40" height="40"/>][linkedin]
+[<img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="LiamGuedes | Instagram" width="40" height="40"/>][instagram]
 
 [website]: https://liamguedes.com
 [twitter]: https://twitter.com/LiamGuedes
