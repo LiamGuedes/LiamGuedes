@@ -23,23 +23,20 @@ Hi, I’m Willian Guedes! A passionate Mobile iOS Developer, UX/UI Designer and 
 <img style="border-radius: 50%;" src="https://github.com/user-attachments/assets/c69284a9-adb2-47fc-add0-49db323da020" width="50" height="50"/> &nbsp;
 &nbsp;
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49e/512.gif" alt="💞" width="20" height="20"> &nbsp;Tools that make me fall in love 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="Xcode" width="50" height="50" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="50" height="50"/> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="50"/> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/objectivec/objectivec-plain.svg" alt="Objective-C" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="50" height="50"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" alt="RX" width="50" height="50" /> &nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/realm/realm-original.svg" alt="Realm" width="50" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" alt="Firebase" width="50" height="50" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="50" height="50" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" /> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="AWS" width="50" height="50" /> &nbsp;        
-&nbsp;
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49e/512.gif" alt="💞" width="20" height="20"> &nbsp;Tools that make me fall in love       
+<img src="https://img.icons8.com/?size=100&id=79115&format=png&color=000000" alt="Xcode" width="50" height="50" /> &nbsp;
+<img src="https://img.icons8.com/?size=100&id=61901&format=png&color=000000" alt="Swift" width="50" height="50"/> &nbsp; 
+<img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" alt="Javascript" width="50" height="50"/> &nbsp; 
+<img src="https://img.icons8.com/?size=100&id=uLDrtp8o8zTG&format=png&color=000000" alt="Python" width="50" height="50"/> &nbsp; 
+<img src="https://img.icons8.com/?size=100&id=QF5zpaaq4QZf&format=png&color=000000" alt="Kotlin" width="50" height="50"/> &nbsp; 
+<img src="https://img.icons8.com/?size=100&id=2T6TKY6whzgV&format=png&color=000000" alt="C++" width="50" height="50"/> &nbsp;
+<img src="https://img.icons8.com/?size=100&id=dSnah6CSCxRG&format=png&color=000000" alt="Angular" width="50" height="50"/> &nbsp;
+<img src="https://img.icons8.com/?size=100&id=t4YbEbA834uH&format=png&color=000000" alt="React" width="50" height="50"/> &nbsp;
+<img src="https://img.icons8.com/?size=100&id=ouWtcsgDBiwO&format=png&color=000000" alt="NodeJS" width="50" height="50" /> &nbsp;
+<img src="https://img.icons8.com/?size=100&id=qsQZWvMuX4ad&format=png&color=000000" alt="Sass" width="50" height="50" /> &nbsp; 
+<img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" alt="AWS" width="50" height="50" /> &nbsp;
+<img src="https://img.icons8.com/?size=100&id=79061&format=png&color=000000" alt="Google Cloud" width="50" height="50" /> &nbsp;
+<img src="https://img.icons8.com/?size=100&id=kTuxVYRKeKEY&format=png&color=000000" alt="GPT" width="50" height="50" /> &nbsp;
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="20" height="20"> &nbsp; Analytics
 
@@ -50,10 +47,11 @@ Hi, I’m Willian Guedes! A passionate Mobile iOS Developer, UX/UI Designer and 
 
 I welcome new opportunities, collaborations, and tech discussions. Feel free to contact me here or in the following social media:
 
-[<img src="https://img.icons8.com/?size=100&id=ejub91zEY6Sl&format=png&color=000000" alt="liamguedes.com" width="40" height="40"/>][website]
-[<img src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" alt="LiamGuedes | Twitter" width="40" height="40"/>][twitter]
-[<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LiamGuedes | LinkedIn" width="40" height="40"/>][linkedin]
-[<img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="LiamGuedes | Instagram" width="40" height="40"/>][instagram]
+[<img src="https://img.icons8.com/?size=100&id=43620&format=png&color=000000" alt="liamguedes.com" width="40" height="40"/>][website]
+[<img src="https://img.icons8.com/?size=100&id=bG29Ckcdp6YP&format=png&color=000000" alt="LiamGuedes | Twitter" width="40" height="40"/>][twitter]
+[<img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" alt="LiamGuedes | LinkedIn" width="40" height="40"/>][linkedin]
+[<img src="https://img.icons8.com/?size=100&id=43625&format=png&color=000000" alt="LiamGuedes | Instagram" width="40" height="40"/>][instagram]
+[<img src="https://img.icons8.com/?size=100&id=gU6bwZNC5TXf&format=png&color=000000" alt="LiamGuedes | Medium" width="40" height="40"/>][instagram]
 
 [website]: https://liamguedes.com
 [twitter]: https://twitter.com/LiamGuedes
