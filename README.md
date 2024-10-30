@@ -45,9 +45,8 @@ Hi, I’m Willian Guedes! A passionate Mobile iOS Developer, UX/UI Designer and 
 <img src="https://img.icons8.com/?size=100&id=kTuxVYRKeKEY&format=png&color=000000" alt="GPT" width="50" height="50" /> &nbsp;
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" alt="🤖" width="20" height="20"> &nbsp; Analytics
-
-![LiamGuedes's Stats](https://github-readme-stats.vercel.app/api?username=LiamGuedes&theme=dark&show_icons=true&hide_border=false&count_private=true) &nbsp;
-![LiamGuedes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LiamGuedes&theme=dark&hide_border=false) &nbsp;
+![LiamGuedes's Stats](https://github-readme-stats.vercel.app/api?username=LiamGuedes&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![LiamGuedes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LiamGuedes&theme=midnight-purple&hide_border=true)
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6ce_fe0f/512.gif" alt="🛎" width="20" height="20"> &nbsp; Contact Me
 
