@@ -18,7 +18,7 @@ Hi, I’m Willian Guedes! A passionate Mobile iOS Developer, UX/UI Designer and 
 - 2025 Goals: Expand my open-source contributions, refine my skills in iOS tech stack and Learn how to play City of Stars in Piano.
 &nbsp;
 
-## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f929/512.gif" alt="🤩" width="20" height="20"> &nbsp;Projects that I'm happy to Work On:
+## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f929/512.gif" alt="🤩" width="20" height="20"> &nbsp;Projects that I'm happy to worked on:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ita%C3%BA_Unibanco_logo_2023.svg/240px-Ita%C3%BA_Unibanco_logo_2023.svg.png" width="50" height="50"/> &nbsp;
 <img style="border-radius: 50%;" src="https://github.com/user-attachments/assets/c69284a9-adb2-47fc-add0-49db323da020" width="50" height="50"/> &nbsp;
 &nbsp;
