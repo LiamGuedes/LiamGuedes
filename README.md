@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc2698e7-d9c4-42b2-94d1-cb4f6ac42e15" width="100%"/>
+</p>
+
 # <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="25" height="25"> &nbsp; Hey there! I'm Willian Guedes.
 
 Hi, I’m Willian Guedes! A passionate Mobile iOS Developer, UX/UI Designer and sometimes a Amateur Pianist. I love crafting aesthetically pleasing and high-performance user interfaces, that makes the user feel good using it. Currently, I develop high-performing native apps for a large bank based in Brazil, aligning cutting edge technologies with company bussines goals, ensuring they are both work well, delivering apps that is aesthetic, performatic and easy to maintain for further developers. 
@@ -20,9 +24,10 @@ Hi, I’m Willian Guedes! A passionate Mobile iOS Developer, UX/UI Designer and 
 
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f929/512.gif" alt="🤩" width="20" height="20"> &nbsp;Projects that I'm happy to worked on:
-<img src="https://github.com/user-attachments/assets/3d853f5f-22ab-46b4-8a3a-b349af03343e" width="50" height="50"/> &nbsp;
+<img src="https://github.com/user-attachments/assets/d425f487-ef05-494e-a4e0-091e6768800c" width="50" height="50"/> &nbsp;
 <img src="https://github.com/user-attachments/assets/f007a9e4-abc9-443e-aadb-66692dee2316" width="50" height="50"/> &nbsp;
-&nbsp;
+<img src="https://github.com/user-attachments/assets/99a05afa-be8f-4786-8470-305fc9eb6bca" width="50" height="50"/> &nbsp;
+
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f49e/512.gif" alt="💞" width="20" height="20"> &nbsp;Tools that make me fall in love       
 <img src="https://img.icons8.com/?size=100&id=79115&format=png&color=000000" alt="Xcode" width="50" height="50" /> &nbsp;
