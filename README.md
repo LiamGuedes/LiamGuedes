@@ -48,6 +48,8 @@ Hi, I’m Willian Guedes! A passionate Mobile iOS Developer, UX/UI Designer and 
 
 ## <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6ce_fe0f/512.gif" alt="🛎" width="20" height="20"> &nbsp; Contact Me
 
+I welcome new opportunities, collaborations, and tech discussions. Feel free to contact me here or in the following social media:
+
 [<img src="https://img.icons8.com/?size=100&id=ejub91zEY6Sl&format=png&color=000000" alt="liamguedes.com" width="40" height="40"/>][website]
 [<img src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" alt="LiamGuedes | Twitter" width="40" height="40"/>][twitter]
 [<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LiamGuedes | LinkedIn" width="40" height="40"/>][linkedin]
