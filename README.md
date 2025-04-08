@@ -45,7 +45,6 @@ Hi, I’m Willian Guedes! A passionate Mobile iOS Developer, UX/UI Designer and 
 
 ## <img align=center src="https://github.com/user-attachments/assets/f326ef7c-e237-420c-93f0-7c493db0679e" alt="arrow" width="40" height="40"> &nbsp;Analytics
    <img src="https://github-readme-stats.vercel.app/api?username=LiamGuedes&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="100%" />
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiamGuedes&theme=midnight-purple&hide_border=true" width="100%" />
 <br/><br/>
 
 ## <img align=center src="https://github.com/user-attachments/assets/f326ef7c-e237-420c-93f0-7c493db0679e" alt="arrow" width="40" height="40"> &nbsp;Contact Me
