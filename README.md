@@ -4,7 +4,7 @@
 
 # Hey there! I'm Willian Guedes <img align=center src="https://github.com/user-attachments/assets/a5524f1e-ca5e-427d-a815-c99e3df09e15" alt="Snowflake" width="25" height="25">
 
-Hi, I’m Willian Guedes! A passionate Mobile iOS Developer, UX/UI Designer and sometimes a Amateur Pianist. I love crafting aesthetically pleasing and high-performance user interfaces, that makes the user feel good using it. Currently, I develop high-performing native apps for a large bank based in Brazil, aligning cutting edge technologies with company bussines goals, ensuring they are both work well, delivering apps that is aesthetic, performatic and easy to maintain for further developers. 
+Hi, I’m Willian Guedes! A passionate Mobile iOS Developer and sometimes a Amateur Pianist. I love crafting aesthetically pleasing and high-performance user interfaces, that makes the user feel good using it. Currently, I develop high-performing native apps for a large bank based in Brazil, aligning cutting edge technologies with company bussines goals, ensuring they are both work well, delivering apps that is aesthetic, performatic and easy to maintain for further developers. 
 <br/><br/>
 
 ## <img align=center src="https://github.com/user-attachments/assets/f326ef7c-e237-420c-93f0-7c493db0679e" alt="arrow" width="40" height="40">  A Little Bit About Me:
